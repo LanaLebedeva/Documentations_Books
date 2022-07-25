@@ -12,10 +12,14 @@ Articles, books, documentations
 ## Kotlin
 1.  Sequences: https://www.raywenderlich.com/31290959-kotlin-sequences-getting-started
     https://kotlinlang.org/docs/sequences.html
-2.  
+2.  https://material-foundation.github.io/material-theme-builder/#/custom
 
 
 ## Android
+
+### Introducing Material Theme Builder
+1. https://material.io/blog/material-theme-builder
+
 
 ### testing
 1. tests for Android notifications
