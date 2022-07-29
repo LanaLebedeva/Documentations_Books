@@ -17,6 +17,9 @@ Articles, books, documentations
 
 ## Android
 
+###Layout
+1. Awesome-RecyclerView-LayoutManager: https://github.com/jiang111/Awesome-RecyclerView-LayoutManager
+
 ### Introducing Material Theme Builder
 1. https://material.io/blog/material-theme-builder
 
