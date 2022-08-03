@@ -17,11 +17,16 @@ Articles, books, documentations
 
 ## Android
 
-###Layout
+### Layout
 1. Awesome-RecyclerView-LayoutManager: https://github.com/jiang111/Awesome-RecyclerView-LayoutManager
 
 ### Introducing Material Theme Builder
 1. https://material.io/blog/material-theme-builder
+
+### Concurrent
+0. https://kotlinlang.org/docs/coroutines-guide.html
+1. https://github.com/vgrazi/JavaConcurrentAnimatedReboot
+2. https://www.youtube.com/watch?v=kma6T8OAQ-Q
 
 
 ### testing
