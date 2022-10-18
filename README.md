@@ -52,6 +52,9 @@ Articles, books, documentations
 
 ### Retrofit
 
+### RecycleView
+1. CodeLab: https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list#0
+
 
 
 ## Intresting
