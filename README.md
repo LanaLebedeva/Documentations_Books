@@ -20,6 +20,9 @@ Articles, books, documentations
 ### Layout
 1. Awesome-RecyclerView-LayoutManager: https://github.com/jiang111/Awesome-RecyclerView-LayoutManager
 
+### viewBinding in Fragment
+1. https://developer.android.com/codelabs/basic-android-kotlin-training-fragments-navigation-component#4
+
 ### Introducing Material Theme Builder
 1. https://material.io/blog/material-theme-builder
 
