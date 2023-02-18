@@ -15,8 +15,9 @@ Articles, books, documentations
 2.  https://material-foundation.github.io/material-theme-builder/#/custom
 3.  delegates...
     https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#1
-4.   
-
+    https://medium.com/androiddevelopers/built-in-delegates-4811947e781f
+4.  generic
+    https://developer.android.com/codelabs/basic-android-kotlin-compose-generics#0
 
 ## Android
 
