@@ -13,6 +13,9 @@ Articles, books, documentations
 1.  Sequences: https://www.raywenderlich.com/31290959-kotlin-sequences-getting-started
     https://kotlinlang.org/docs/sequences.html
 2.  https://material-foundation.github.io/material-theme-builder/#/custom
+3.  delegates...
+    https://developer.android.com/codelabs/basic-android-kotlin-compose-classes-and-objects#1
+4.   
 
 
 ## Android
