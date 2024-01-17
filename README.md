@@ -62,7 +62,10 @@ Articles, books, documentations
 ### RecycleView
 1. CodeLab: https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list#0
 
+## wear OS
 
+### Codelab
+1.https://developer.android.com/codelabs/compose-for-wear-os#8
 
 ## Intresting
 1. HH.RU TECH RADAR - ANDROID 2022 Q1: https://hh.ru/article/techradar_android
